@@ -1,0 +1,7 @@
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\InsuranceProgram\bin\Debug\InsuranceProgram.exe.config
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\InsuranceProgram\bin\Debug\InsuranceProgram.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\InsuranceProgram\bin\Debug\InsuranceProgram.pdb
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\InsuranceProgram\obj\Debug\InsuranceProgram.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\InsuranceProgram\obj\Debug\InsuranceProgram.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\InsuranceProgram\obj\Debug\InsuranceProgram.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\InsuranceProgram\obj\Debug\InsuranceProgram.pdb
