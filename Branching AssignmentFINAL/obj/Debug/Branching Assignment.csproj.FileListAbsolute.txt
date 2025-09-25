@@ -1,0 +1,7 @@
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Branching Assignment\bin\Debug\Branching Assignment.exe.config
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Branching Assignment\bin\Debug\Branching Assignment.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Branching Assignment\bin\Debug\Branching Assignment.pdb
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Branching Assignment\obj\Debug\Branching Assignment.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Branching Assignment\obj\Debug\Branching Assignment.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Branching Assignment\obj\Debug\Branching Assignment.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Branching Assignment\obj\Debug\Branching Assignment.pdb
