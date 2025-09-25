@@ -1,0 +1,7 @@
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Arraystest\bin\Debug\Arraystest.exe.config
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Arraystest\bin\Debug\Arraystest.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Arraystest\bin\Debug\Arraystest.pdb
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Arraystest\obj\Debug\Arraystest.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Arraystest\obj\Debug\Arraystest.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Arraystest\obj\Debug\Arraystest.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Arraystest\obj\Debug\Arraystest.pdb
