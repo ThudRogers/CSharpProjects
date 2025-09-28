@@ -1,0 +1,8 @@
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\sixparttest\bin\Debug\sixparttest.exe.config
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\sixparttest\bin\Debug\sixparttest.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\sixparttest\bin\Debug\sixparttest.pdb
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\sixparttest\obj\Debug\sixparttest.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\sixparttest\obj\Debug\sixparttest.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\sixparttest\obj\Debug\sixparttest.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\sixparttest\obj\Debug\sixparttest.pdb
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\sixparttest\obj\Debug\sixparttest.exe.config
