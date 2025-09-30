@@ -1,10 +1,28 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 class Program
 {
     static void Main()
     {
+        // Demonstrate duplicate detection with List<string> and HashSet<string>
+        var items = new List<string> { "apple", "banana", "apple", "orange", "banana", "grape" };
+        var seen = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+
+        Console.WriteLine("Duplicate check for items:");
+        foreach (var item in items)
+        {
+            if (seen.Contains(item))
+            {
+                Console.WriteLine($"{item} (duplicate)");
+            }
+            else
+            {
+                Console.WriteLine($"{item} (first occurrence)");
+                seen.Add(item);
+            }
+        }
+
         // Reusable responses (still here so your earlier loop work remains relevant)
         string[] responses =
         {
