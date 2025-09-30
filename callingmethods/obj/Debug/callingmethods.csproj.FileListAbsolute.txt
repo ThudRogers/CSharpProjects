@@ -1,0 +1,2 @@
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\callingmethods\obj\Debug\callingmethods.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\callingmethods\obj\Debug\callingmethods.csproj.CoreCompileInputs.cache
