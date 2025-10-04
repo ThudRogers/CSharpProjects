@@ -1,0 +1,7 @@
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\MainMethodTest\obj\Debug\MainMethodTest.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\MainMethodTest\obj\Debug\MainMethodTest.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\MainMethodTest\bin\Debug\MainMethodTest.exe.config
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\MainMethodTest\bin\Debug\MainMethodTest.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\MainMethodTest\bin\Debug\MainMethodTest.pdb
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\MainMethodTest\obj\Debug\MainMethodTest.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\MainMethodTest\obj\Debug\MainMethodTest.pdb
