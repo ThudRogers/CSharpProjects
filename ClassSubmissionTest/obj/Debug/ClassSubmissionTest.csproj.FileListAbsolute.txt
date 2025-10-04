@@ -1,0 +1,7 @@
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\ClassSubmissionTest\bin\Debug\ClassSubmissionTest.exe.config
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\ClassSubmissionTest\bin\Debug\ClassSubmissionTest.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\ClassSubmissionTest\bin\Debug\ClassSubmissionTest.pdb
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\ClassSubmissionTest\obj\Debug\ClassSubmissionTest.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\ClassSubmissionTest\obj\Debug\ClassSubmissionTest.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\ClassSubmissionTest\obj\Debug\ClassSubmissionTest.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\ClassSubmissionTest\obj\Debug\ClassSubmissionTest.pdb
