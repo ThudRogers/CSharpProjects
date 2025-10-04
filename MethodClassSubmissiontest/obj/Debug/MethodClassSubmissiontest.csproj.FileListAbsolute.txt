@@ -1,0 +1,7 @@
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\MethodClassSubmissiontest\bin\Debug\MethodClassSubmissiontest.exe.config
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\MethodClassSubmissiontest\bin\Debug\MethodClassSubmissiontest.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\MethodClassSubmissiontest\bin\Debug\MethodClassSubmissiontest.pdb
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\MethodClassSubmissiontest\obj\Debug\MethodClassSubmissiontest.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\MethodClassSubmissiontest\obj\Debug\MethodClassSubmissiontest.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\MethodClassSubmissiontest\obj\Debug\MethodClassSubmissiontest.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\MethodClassSubmissiontest\obj\Debug\MethodClassSubmissiontest.pdb
