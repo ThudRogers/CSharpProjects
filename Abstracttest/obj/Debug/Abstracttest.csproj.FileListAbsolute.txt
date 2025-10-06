@@ -1,0 +1,7 @@
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Abstracttest\bin\Debug\Abstracttest.exe.config
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Abstracttest\bin\Debug\Abstracttest.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Abstracttest\bin\Debug\Abstracttest.pdb
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Abstracttest\obj\Debug\Abstracttest.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Abstracttest\obj\Debug\Abstracttest.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Abstracttest\obj\Debug\Abstracttest.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Abstracttest\obj\Debug\Abstracttest.pdb
