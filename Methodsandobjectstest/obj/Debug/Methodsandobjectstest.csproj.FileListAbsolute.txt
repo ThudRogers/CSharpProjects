@@ -1,0 +1,8 @@
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Methodsandobjectstest\bin\Debug\Methodsandobjectstest.exe.config
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Methodsandobjectstest\bin\Debug\Methodsandobjectstest.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Methodsandobjectstest\bin\Debug\Methodsandobjectstest.pdb
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Methodsandobjectstest\obj\Debug\Methodsandobjectstest.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Methodsandobjectstest\obj\Debug\Methodsandobjectstest.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Methodsandobjectstest\obj\Debug\Methodsandobjectstest.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Methodsandobjectstest\obj\Debug\Methodsandobjectstest.pdb
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Methodsandobjectstest\obj\Debug\Methodsandobjectstest.exe.config
