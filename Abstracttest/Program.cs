@@ -1,40 +1,40 @@
-﻿using System;
+using System;
 
 class Program
 {
     static void Main()
     {
-        // Instantiate a Dog object
-        Dog dog = new Dog()
+        // Instantiate an Employee object
+        Employee employee = new Employee()
         {
-            Species = "Canine",
-            Name = "Buddy"
+            firstName = "Sample",
+            lastName = "Student"
         };
 
-        // Call the implemented Describe() method
-        dog.Describe();
+        // Call the implemented SayName() method
+        employee.SayName();
 
         Console.WriteLine("\nProgram complete. Press Enter to exit...");
         Console.ReadLine();
     }
 }
 
-// Abstract base class Animal
-public abstract class Animal
+// Abstract base class Person
+public abstract class Person
 {
-    public string Species { get; set; }
-    public string Name { get; set; }
+    public string firstName { get; set; }
+    public string lastName { get; set; }
 
-    // Abstract method (must be implemented by subclasses)
-    public abstract void Describe();
+    // Abstract method (must be implemented by derived classes)
+    public abstract void SayName();
 }
 
-// Derived class Dog inherits from Animal
-public class Dog : Animal
+// Derived class Employee inherits from Person
+public class Employee : Person
 {
     // Implementation of the abstract method
-    public override void Describe()
+    public override void SayName()
     {
-        Console.WriteLine($"This animal is a {Species} named {Name}.");
+        Console.WriteLine($"Name: {firstName} {lastName}");
     }
 }
