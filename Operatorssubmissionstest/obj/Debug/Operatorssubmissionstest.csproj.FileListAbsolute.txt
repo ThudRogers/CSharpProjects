@@ -1,0 +1,7 @@
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Operatorssubmissionstest\bin\Debug\Operatorssubmissionstest.exe.config
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Operatorssubmissionstest\bin\Debug\Operatorssubmissionstest.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Operatorssubmissionstest\bin\Debug\Operatorssubmissionstest.pdb
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Operatorssubmissionstest\obj\Debug\Operatorssubmissionstest.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Operatorssubmissionstest\obj\Debug\Operatorssubmissionstest.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Operatorssubmissionstest\obj\Debug\Operatorssubmissionstest.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Operatorssubmissionstest\obj\Debug\Operatorssubmissionstest.pdb
