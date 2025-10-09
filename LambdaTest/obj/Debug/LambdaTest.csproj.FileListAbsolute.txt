@@ -1,0 +1,7 @@
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\LambdaTest\bin\Debug\LambdaTest.exe.config
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\LambdaTest\bin\Debug\LambdaTest.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\LambdaTest\bin\Debug\LambdaTest.pdb
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\LambdaTest\obj\Debug\LambdaTest.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\LambdaTest\obj\Debug\LambdaTest.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\LambdaTest\obj\Debug\LambdaTest.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\LambdaTest\obj\Debug\LambdaTest.pdb
