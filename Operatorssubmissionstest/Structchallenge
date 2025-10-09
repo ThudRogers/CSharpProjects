@@ -1,0 +1,23 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Create an object of data type Number
+        Number number = new Number();
+        number.Amount = 1234.56m; // Assign a decimal amount (note the 'm' for decimal literal)
+
+        // Print the amount to the console
+        Console.WriteLine($"The amount is: {number.Amount}");
+
+        Console.WriteLine("\nProgram complete. Press Enter to exit...");
+        Console.ReadLine();
+    }
+}
+
+// Struct definition
+public struct Number
+{
+    public decimal Amount { get; set; }
+}
