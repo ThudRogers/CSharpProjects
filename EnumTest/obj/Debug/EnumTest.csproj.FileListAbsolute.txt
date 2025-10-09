@@ -1,0 +1,7 @@
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\EnumTest\bin\Debug\EnumTest.exe.config
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\EnumTest\bin\Debug\EnumTest.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\EnumTest\bin\Debug\EnumTest.pdb
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\EnumTest\obj\Debug\EnumTest.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\EnumTest\obj\Debug\EnumTest.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\EnumTest\obj\Debug\EnumTest.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\EnumTest\obj\Debug\EnumTest.pdb
