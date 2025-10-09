@@ -1,0 +1,7 @@
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Parameterstest\bin\Debug\Parameterstest.exe.config
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Parameterstest\bin\Debug\Parameterstest.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Parameterstest\bin\Debug\Parameterstest.pdb
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Parameterstest\obj\Debug\Parameterstest.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Parameterstest\obj\Debug\Parameterstest.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Parameterstest\obj\Debug\Parameterstest.exe
+C:\Users\josep\OneDrive\Documentos\GitHub\C#_Projects\Parameterstest\obj\Debug\Parameterstest.pdb
